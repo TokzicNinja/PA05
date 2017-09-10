@@ -1,0 +1,281 @@
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+1
+Enter your desired username:
+A
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+1
+Enter your desired username:
+B
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+1
+Enter your desired username:
+C
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+2
+Enter your username:
+W
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+2
+Enter your username:
+A
+
+Welcome to SocialSite!
+
+You are logged on as: A
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+3
+Inbox Empty
+
+Welcome to SocialSite!
+
+You are logged on as: A
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+2
+Would you like to load a previously saved status?(y/n)
+n
+Enter a status:
+busy
+B received: A has changed her status to: busy
+C received: A has changed her status to: busy
+Would you like to save this status?(y/n)
+y
+
+Welcome to SocialSite!
+
+You are logged on as: A
+Your status is: busy
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+1
+Enter a post:
+Hi     
+B received: A sent: Hi
+C received: A sent: Hi
+
+Welcome to SocialSite!
+
+You are logged on as: A
+Your status is: busy
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+3
+Inbox Empty
+
+Welcome to SocialSite!
+
+You are logged on as: A
+Your status is: busy
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+2
+Would you like to load a previously saved status?(y/n)
+y
+Choose status [0 - 1]
+0
+B received: A has changed her status to: I am using SocialSite
+C received: A has changed her status to: I am using SocialSite
+
+Welcome to SocialSite!
+
+You are logged on as: A
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+4
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+2
+Enter your username:
+C
+
+Welcome to SocialSite!
+
+You are logged on as: C
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+3
+A has changed her status to: busy
+A sent: Hi
+A has changed her status to: I am using SocialSite
+
+Welcome to SocialSite!
+
+You are logged on as: C
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+1
+Enter a post:
+Hello  
+A received: C sent: Hello
+B received: C sent: Hello
+
+Welcome to SocialSite!
+
+You are logged on as: C
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+4
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+2
+Enter your username:
+A
+
+Welcome to SocialSite!
+
+You are logged on as: A
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+3
+C sent: Hello
+
+Welcome to SocialSite!
+
+You are logged on as: A
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+2
+Would you like to load a previously saved status?(y/n)
+y
+Choose status [0 - 1]
+1
+B received: A has changed her status to: busy
+C received: A has changed her status to: busy
+
+Welcome to SocialSite!
+
+You are logged on as: A
+Your status is: busy
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+4
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+2
+Enter your username:
+B
+
+Welcome to SocialSite!
+
+You are logged on as: B
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+3
+A has changed her status to: busy
+A sent: Hi
+A has changed her status to: I am using SocialSite
+C sent: Hello
+A has changed her status to: busy
+
+Welcome to SocialSite!
+
+You are logged on as: B
+Your status is: I am using SocialSite
+What would you like to do?
+1. Post a message
+2. Change your status
+3. View your inbox 
+4. Log out
+4
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+8
